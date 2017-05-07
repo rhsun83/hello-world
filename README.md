@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+just repository
+it is for experimenting
+try another
